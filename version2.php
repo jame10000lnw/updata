@@ -1,5 +1,5 @@
 {
-"Version":"1.3",
+"Version":"1.4",
 "Url":"https://github.com/jame10000lnw/updata/raw/main/ok.zip",
 "Changelog":"--------------------------------------------------
 อัพเดท วันที่ 12 ธันวาคม 2563
