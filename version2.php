@@ -1,5 +1,5 @@
 {
-"Version":"1.6",
+"Version":"1.7",
 "Url":"https://github.com/jame10000lnw/updata/raw/main/ok.zip",
 "Changelog":"--------------------------------------------------
 🔰 LIFESTYLE VPN🔰
