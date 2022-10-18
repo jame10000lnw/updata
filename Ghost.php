@@ -1,7 +1,8 @@
 {
-"Version":"2.0",
-"Url":"https://github.com/jame10000lnw/updata/raw/main/ok.zip",
+"Version":"1.1",
+"Url":"https://github.com/jame10000lnw/updata/raw/main/ghost.zip",
 "Changelog":"
+อัพเดท วันที่ 18 ตุลาคม 2565📢
 
 GHOST VPN
 ไทย&สิงคโปร์ 🇹🇭🇸🇬
