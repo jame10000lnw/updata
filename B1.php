@@ -1,4 +1,4 @@
-{"Version":"2.7","Url":"https://github.com/jame10000lnw/updata/raw/main/B1.zip","Text":"📢อัพเดท วันที่ 18 พฤศจิกายน 2565
+{"Version":"2.6","Url":"https://github.com/jame10000lnw/updata/raw/main/B1.zip","Text":"📢อัพเดท วันที่ 18 พฤศจิกายน 2565
  
 THE-ONE VPN
 ไทย&สิงคโปร์&ออสเตรเลีย 🇹🇭🇸🇬🇳🇿
@@ -10,7 +10,7 @@ THE-ONE VPN
 📌แนะนำ(ใช้เพื่อเล่นเกม)
 
 
-🌐มีให้เลือกทั้งหมด 9 เซิร์ฟเวอร์
+🌐มีให้เลือกทั้งหมด 9 เซิร์ฟเวอร์ 
 🌐เซิร์ฟเวอร์ CS-LOXINFO1 🇹🇭
 🌐เซิร์ฟเวอร์ AU-OVH1 🇳🇿
 🌐เซิร์ฟเวอร์ SG-OVH1 🇸🇬
