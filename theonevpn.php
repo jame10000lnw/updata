@@ -1,4 +1,4 @@
-{"Version":"4.7","Url":"https://github.com/jame10000lnw/updata/raw/main/theonevpn.zip","Text":"📢อัพเดท วันที่ 27 มกราคม 2565
+{"Version":"4.8","Url":"https://github.com/jame10000lnw/updata/raw/main/theonevpn.zip","Text":"📢อัพเดท วันที่ 27 มกราคม 2565
 
 THE ONE VPN
 
