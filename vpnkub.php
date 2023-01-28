@@ -1,4 +1,4 @@
-{"Version":"2.2","Url":"https://github.com/jame10000lnw/updata/raw/main/vpnkub.zip","Text":" 📢อัพเดท วันที่ 29 มกราคม 2566
+{"Version":"2.3","Url":"https://github.com/jame10000lnw/updata/raw/main/vpnkub.zip","Text":" 📢อัพเดท วันที่ 29 มกราคม 2566
 
 ยินดีต้อนรับสู่ VPNKUB
 
