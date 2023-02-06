@@ -13,6 +13,7 @@ THE ONE VPN
 🌐เซิร์ฟเวอร์ SG-Ovh 🇸🇬
 🌐เซิร์ฟเวอร์ TH-Readyidc 🇹🇭
 🌐เซิร์ฟเวอร์ TH-Cat 🇹🇭
+🌐เซิร์ฟเวอร์ TH-Inet 🇹🇭
 
 ▶️รองรับซิม AIS DTAC TRUE
  
