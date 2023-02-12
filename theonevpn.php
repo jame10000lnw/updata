@@ -1,19 +1,14 @@
-{"Version":"5.0","Url":"https://github.com/jame10000lnw/updata/raw/main/theonevpn.zip","Text":"📢อัพเดท วันที่ 6 กุมภาพันธ์ 2565
+{"Version":"5.1","Url":"https://github.com/jame10000lnw/updata/raw/main/theonevpn.zip","Text":"📢อัพเดท วันที่ 12 กุมภาพันธ์ 2565
 
 THE ONE VPN
 
 ไทย&สิงคโปร์&ออสเตรเลีย 🇹🇭🇸🇬🇳🇿
 
 🆙รายละเอียดการอัพเดท (ล่าสุด)​
-- เพิ่ม server TH-Inet 1-2
-- เพิ่ม server SG-Ovh 5-7
+- เพิ่ม server TH-Free 01
+- เพิ่ม server TH-Nethome 01
 
 🌐เซิร์ฟเวอร์ VIP-Zcom ไม่ต้องเพิ่มเวลา 👑
-🌐เซิร์ฟเวอร์ AU-Ovh 🇳🇿
-🌐เซิร์ฟเวอร์ SG-Ovh 🇸🇬
-🌐เซิร์ฟเวอร์ TH-Readyidc 🇹🇭
-🌐เซิร์ฟเวอร์ TH-Cat 🇹🇭
-🌐เซิร์ฟเวอร์ TH-Inet 🇹🇭
 
 ▶️รองรับซิม AIS DTAC TRUE
  
