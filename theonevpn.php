@@ -1,4 +1,4 @@
-{"Version":"5.0","Url":"https://github.com/jame10000lnw/updata/raw/main/theonevpn.zip","Text":"📢อัพเดท วันที่ 13 กุมภาพันธ์ 2565
+{"Version":"5.0","Url":"https://vpnkub.online/config/theonevpn.zip","Text":"📢อัพเดท วันที่ 13 กุมภาพันธ์ 2565
 
 THE ONE VPN
 
