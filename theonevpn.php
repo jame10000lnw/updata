@@ -1,4 +1,4 @@
-{"Version":"5.5","Url":"https://vpnkub.online/theonevpn.zip","Text":"📢อัพเดท วันที่ 4 มีนาคม 2565
+{"Version":"5.6","Url":"https://vpnkub.online/theonevpn.zip","Text":"📢อัพเดท วันที่ 4 มีนาคม 2565
 
 THE ONE VPN 
 
