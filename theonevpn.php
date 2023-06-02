@@ -1,4 +1,4 @@
-{"Version":"7.4","Url":"https://vpnkub.online/config/theonevpn.zip","Text":"📢 อัพเดท วันที่ 24 พฤษภาคม 2566
+{"Version":"7.4","Url":"https://vpnkub.online/theonevpn.zip","Text":"📢 อัพเดท วันที่ 2 มิถุนายน 2566
 
 THE ONE VPN 
 
