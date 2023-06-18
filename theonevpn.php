@@ -1,4 +1,4 @@
-{"Version":"7.8","Url":"https://vpnkub.online/theonevpn.zip","Text":"📢 อัพเดท วันที่ 18 มิถุนายน 2566
+{"Version":"7.9","Url":"https://vpnkub.online/config/theonevpn.zip","Text":"📢 อัพเดท วันที่ 18 มิถุนายน 2566
 
 📢📢📢 ประกาศด่วน 📢📢📢
 เซิร์ฟเวอร์ THEONEVPN จะปิดให้บริการเร็วๆนี้
