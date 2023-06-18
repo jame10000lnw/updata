@@ -1,6 +1,6 @@
-{"Version":"1.0","Url":"https://vpnkub.online/config/ihavevpn.zip","Text":"📢 อัพเดท วันที่ 15 มิถุนายน 2566
+{"Version":"1.0","Url":"https://vpnkub.online/ihavevpn.zip","Text":"📢 อัพเดท วันที่ 15 มิถุนายน 2566
 
-i have vpn แอปเน็ตฟรีเปิดบริการใหม่ 📢
+i have vpn แอปเน็ตฟรีเปิดให้บริการใหม่ 📢
 
 - TH / ท่องเว็บในไทย-เล่นเกม 🇹🇭
 - SG / ใช้งานทั่วไปดูหนังฟังเพลง 🇸🇬
